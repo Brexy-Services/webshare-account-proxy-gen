@@ -5,7 +5,7 @@ Basic webshare account generator to fetch the token and 10 free 1GB proxies.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/webshare-account-proxy-gen.git
+    git clone https://github.com/Brexy-Services/webshare-account-proxy-gen.git
     cd webshare-account-proxy-gen
     ```
 
